@@ -1,4 +1,4 @@
-Hi, I'm Akshay K.
+Hi, I'm Akshay.
 
 <img align="center" width="49%" src="./iso_calender.svg" />
 
